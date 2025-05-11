@@ -14,8 +14,7 @@ Runedown is our grade 12 passion project: an indie, top‑down RPG that blends m
 ## 🚀 Key Features
 
 * **Dynamic Duels:** Engage in one‑on‑one battles with AI or friends via Photon networking. (AI not implemented yet)
-* **Fluid Animations:** Sprite sheets bring characters and enemies to life.
-  !\[Red Sprite Sheet]\(docs/red\ sprite.png) !\[Purple Sprite Sheet]\(docs/purple\ sprite.png)
+* **Fluid Animations:** Sprite sheets bring characters and enemies to life. Aesthetic tilesets for characters to maneuver in.
 * **Responsive UI:** Seamless menu transitions for login, stats, and duel initiation.
 * **Interactions:** Objects, collisions, and events that trigger animations/side effects.
 * **Cross-platform:** Built in Unity with C#, optimized for desktop and mobile.
@@ -23,6 +22,13 @@ Runedown is our grade 12 passion project: an indie, top‑down RPG that blends m
 ---
 
 ## 📸 Gallery
+
+**Character Spritesheets**
+
+<p float="left">
+  <img src="docs/red sprite.png" width="100" />
+  <img src="docs/purple sprite.png" width="100" /> 
+</p>
 
 **Character Animation**
 
